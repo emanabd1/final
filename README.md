@@ -42,6 +42,7 @@ Welcome to **JOBSPHEERE**, a modern job search platform designed to connect tale
    npm run dev
    ```
    The app will be available at `http://localhost:3000`.
+   
 
 ## 🛡️ Security
 
